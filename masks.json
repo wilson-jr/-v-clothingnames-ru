@@ -2,147 +2,147 @@
     "0": {
         "0": {
             "GXT": "M_FMM_0_0",
-            "Localized": "None"
+            "Localized": "Пусто"
         }
     },
     "1": {
         "0": {
             "GXT": "M_FMM_1_0",
-            "Localized": "Pink Pig"
+            "Localized": "Розовая свинья"
         },
         "1": {
             "GXT": "M_FMM_1_1",
-            "Localized": "Brown Pig"
+            "Localized": "Коричневая свинья"
         },
         "2": {
             "GXT": "M_FMM_1_2",
-            "Localized": "Bloody Pig"
+            "Localized": "Кровавая свинья"
         },
         "3": {
             "GXT": "M_FMM_1_3",
-            "Localized": "Black Pig"
+            "Localized": "Черная свинья"
         }
     },
     "2": {
         "0": {
             "GXT": "M_FMM_2_0",
-            "Localized": "Silver Skull"
+            "Localized": "Серебряный череп"
         },
         "1": {
             "GXT": "M_FMM_2_1",
-            "Localized": "Bone Skull"
+            "Localized": "Череп"
         },
         "2": {
             "GXT": "M_FMM_2_2",
-            "Localized": "Gray Skull"
+            "Localized": "Серый череп"
         },
         "3": {
             "GXT": "M_FMM_2_3",
-            "Localized": "Black Skull"
+            "Localized": "Черный череп"
         }
     },
     "3": {
         "0": {
             "GXT": "M_FMM_3_0",
-            "Localized": "Pogo"
+            "Localized": "Маска «Pogo»"
         }
     },
     "4": {
         "0": {
             "GXT": "M_FMM_4_0",
-            "Localized": "White Hockey"
+            "Localized": "Белая хоккейная маска"
         },
         "1": {
             "GXT": "M_FMM_4_1",
-            "Localized": "Red Hockey"
+            "Localized": "Красный хоккейная маска"
         },
         "2": {
             "GXT": "M_FMM_4_2",
-            "Localized": "Black Bloody Hockey"
+            "Localized": "Темно-кровавый хоккейная маска"
         },
         "3": {
             "GXT": "M_FMM_4_3",
-            "Localized": "Dust Devils Hockey"
+            "Localized": "Хоккейная маска «Dust Devils»"
         }
     },
     "5": {
         "0": {
             "GXT": "M_FMM_5_0",
-            "Localized": "Tan Ape"
+            "Localized": "Рыжевато-коричневая обезьяна"
         },
         "1": {
             "GXT": "M_FMM_5_1",
-            "Localized": "Brown Ape"
+            "Localized": "Коричневая обезьяна"
         },
         "2": {
             "GXT": "M_FMM_5_2",
-            "Localized": "Green Ape"
+            "Localized": "Зеленая обезьяна"
         },
         "3": {
             "GXT": "M_FMM_5_3",
-            "Localized": "Pink Ape"
+            "Localized": "Розовый обезьяна"
         }
     },
     "6": {
         "0": {
             "GXT": "M_FMM_6_0",
-            "Localized": "Green Carnival"
+            "Localized": "Зеленая маска «Карнавал»"
         },
         "1": {
             "GXT": "M_FMM_6_1",
-            "Localized": "White Carnival"
+            "Localized": "Белая маска «Карнавал»"
         },
         "2": {
             "GXT": "M_FMM_6_2",
-            "Localized": "Blue Carnival"
+            "Localized": "Синяя маска «Карнавал»"
         },
         "3": {
             "GXT": "M_FMM_6_3",
-            "Localized": "Black Carnival"
+            "Localized": "Черная маска «Карнавал»"
         }
     },
     "7": {
         "0": {
             "GXT": "M_FMM_7_0",
-            "Localized": "Green Monster"
+            "Localized": "Зеленый монстр"
         },
         "1": {
             "GXT": "M_FMM_7_1",
-            "Localized": "Red Monster"
+            "Localized": "Красный монстр"
         },
         "2": {
             "GXT": "M_FMM_7_2",
-            "Localized": "Black Monster"
+            "Localized": "Черный монстр"
         },
         "3": {
             "GXT": "M_FMM_7_3",
-            "Localized": "White Monster"
+            "Localized": "Белый монстр"
         }
     },
     "8": {
         "0": {
             "GXT": "CLO_XMAS_M_0_0",
-            "Localized": "White Santa"
+            "Localized": "Белый санта"
         },
         "1": {
             "GXT": "CLO_XMAS_M_0_1",
-            "Localized": "Black Santa"
+            "Localized": "Черный санта"
         },
         "2": {
             "GXT": "CLO_XMAS_M_0_2",
-            "Localized": "Latino Santa"
+            "Localized": "Латинский санта"
         }
     },
     "9": {
         "0": {
             "GXT": "CLO_XMAS_M_1_0",
-            "Localized": "Reindeer Mask"
+            "Localized": "Маска оленя"
         }
     },
     "10": {
         "0": {
             "GXT": "CLO_XMAS_M_2_0",
-            "Localized": "Snowman Mask"
+            "Localized": "Маска снеговика"
         }
     },
     "11": {
@@ -162,21 +162,21 @@
     "12": {
         "0": {
             "GXT": "CLO_VALM_B_1_0",
-            "Localized": "Bronze Masquerade"
+            "Localized": "Бронзовая маскарадная маска"
         },
         "1": {
             "GXT": "CLO_VALM_B_1_1",
-            "Localized": "Silver Masquerade"
+            "Localized": "Серебрян маскарадная маска"
         },
         "2": {
             "GXT": "CLO_VALM_B_1_2",
-            "Localized": "Black & Gold Masquerade"
+            "Localized": "Черно-золотая маскарадная маска"
         }
     },
     "13": {
         "0": {
             "GXT": "CLO_VALM_B_2_0",
-            "Localized": "Cupid"
+            "Localized": "Маска купидона"
         }
     },
     "14": {
@@ -248,7 +248,7 @@
     "15": {
         "0": {
             "GXT": "CLO_BUS_M_1_0",
-            "Localized": "Skull Hockey"
+            "Localized": "Хоккейная маска с черепом"
         },
         "1": {
             "GXT": "CLO_BUS_M_1_1",
@@ -304,21 +304,21 @@
     "17": {
         "0": {
             "GXT": "CLO_HP_B_0_0",
-            "Localized": "Gray Cat"
+            "Localized": "Серая кошка"
         },
         "1": {
             "GXT": "CLO_HP_B_0_1",
-            "Localized": "Tabby Cat"
+            "Localized": "Полосатая кошка"
         }
     },
     "18": {
         "0": {
             "GXT": "CLO_HP_B_1_0",
-            "Localized": "Red Fox"
+            "Localized": "Красная лиса"
         },
         "1": {
             "GXT": "CLO_HP_B_1_1",
-            "Localized": "Brown Fox"
+            "Localized": "Коричневая лиса"
         }
     },
     "19": {
