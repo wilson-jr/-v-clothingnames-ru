@@ -1,1 +1,1 @@
-# -v-clothingnames-ru
+# v-clothingnames russian localization
