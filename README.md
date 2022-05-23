@@ -26,7 +26,7 @@ Files without a prefix (e.g. masks.json) are the clothing items for both **mp_m_
 // Getting the name of https://wiki.rage.mp/images/c/c2/Clothing_M_11_70.jpg
 const maleTops = require("./male_tops.json");
 const clothingID = 70;
-console.log(`Название предмета: ${maleTops[clothingID][0].Localized}`); // Выходит: "Название предмета: Коричневый кожаный меховой жакет"
+console.log(`Название предмета: ${maleTops[clothingID][0].Localized}`); // Выходит: "Название предмета: Кожаный меховой жакет — коричневый"
 
 // Перечисляются все вариации предметов одежды
 Object.keys(maleTops[clothingID]).forEach(variation => {
